@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/wp5406324.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+}
+
+button {
+    width: 250px;
+    height: 250px;
+    border-radius: 130px;
+    border-color: black;
+    background-image: url(https://static.wikia.nocookie.net/naruto/images/e/e0/Mangeky%C5%8D_Sharingan_Kakashi.svg/revision/latest/scale-to-width-down/250?cb=20140427104242);
+}
+
+button:hover {
+    transform: rotate(360deg);
+    transition-duration: 3s;
+}
+
+button:hover {
+    cursor: pointer;
+}

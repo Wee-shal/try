@@ -1,0 +1,59 @@
+        h1 {
+            font-family: 'Yellowtail', cursive;
+            color: white;
+        }
+        
+        body {
+            background-image: url(https://wallpapercave.com/wp/wp5406324.jpg);
+            backdrop-filter: blur(2px);
+            background-size: cover;
+        }
+        
+        #carouselExampleControls {
+            width: 75%;
+            margin: auto;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        
+        .card1 {
+            background-color: #caf0f8;
+            margin-left: 10px;
+            margin-bottom: 40px;
+            border-radius: 10px;
+        }
+        
+        .card2 {
+            background-color: #d6eadf;
+            margin-left: 50px;
+            margin-bottom: 40px;
+            border-radius: 10px;
+        }
+        
+        .card3 {
+            background-color: #b8e0d2;
+            margin-left: 90px;
+            margin-bottom: 40px;
+            border-radius: 10px;
+        }
+        
+        .card4 {
+            background-color: #00b4d8;
+            margin-left: 130px;
+            margin-bottom: 40px;
+            border-radius: 10px;
+        }
+        
+        .card5 {
+            background-color: #809bce;
+            margin-left: 170px;
+            margin-bottom: 40px;
+            border-radius: 10px;
+        }
+        
+        .card6 {
+            background-color: #0077b6;
+            margin-left: 210px;
+            margin-bottom: 40px;
+            border-radius: 10px;
+        }
